@@ -1,0 +1,22 @@
+{
+  "name": "mtga-collection-tracker",
+  "version": "1.0.0",
+  "description": "mtga collection tracker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireblastdaniel/mtga-collection-tracker.git"
+  },
+  "author": "Daniel Prue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireblastdaniel/mtga-collection-tracker/issues"
+  },
+  "homepage": "https://github.com/fireblastdaniel/mtga-collection-tracker#readme",
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
+}
