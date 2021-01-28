@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/fireblastdaniel/mtga-collection-tracker#readme",
   "dependencies": {
-    "electron": "^7.0.0"
+    "electron": "^9.4.0"
   }
 }
